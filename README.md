@@ -47,12 +47,9 @@ Aplicação web acadêmica com operações de cadastro, listagem, atualização 
 
 **Tecnologias:** Laravel, Blade, PHP
 
-## GitHub em números
+## Em evolução
 
-<div>
-  <img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Jvf76&show_icons=true&theme=github_dark&hide_border=true&count_private=true">
-  <img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvf76&layout=compact&theme=github_dark&hide_border=true">
-</div>
+Atualmente meus repositórios mostram minha evolução prática com Java, JavaScript, Laravel e automações. Estou usando o GitHub para registrar estudos, projetos acadêmicos e sistemas próprios enquanto avanço para atuar como desenvolvedor back-end.
 
 ## Objetivo atual
 
